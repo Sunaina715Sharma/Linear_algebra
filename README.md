@@ -5,7 +5,8 @@ Here's all the code and examples from the second edition of my book _Data Scienc
 
 (If you're looking for the code and examples from the first edition, that's in the `first-edition` folder.)
 
-If you want to use the code, you should be able to clone the repo and just do things like
+If you want to use the code, you should be able to clone the repo and just do things
+like
 
 ```
 In [1]: from scratch.linear_algebra import dot
